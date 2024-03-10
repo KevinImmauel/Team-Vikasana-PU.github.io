@@ -15,7 +15,7 @@ below to get started.
    using the following command in your terminal:
 
    ```bash
-   git clone -b website-redesign https://github.com/Team-Vikasana-PU/Team-Vikasana-PU.github.io.git
+   git clone -b website-redesign https://github.com/Neverm1ndEZ/Team-Vikasana-PU.github.io.git
    ```
 
 3. **Navigate to the project directory:** Move into the project directory with:
