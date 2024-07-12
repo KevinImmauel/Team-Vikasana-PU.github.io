@@ -3,6 +3,7 @@ import { Facebook, Instagram, Twitter, Github, Globe } from 'lucide-react';
 
 export default function Footer() {
     return (
+        <div className="pt-[80px]">
         <div className="w-full bg-blue-950 sm:grid sm:grid-rows-4 sm:grid-cols-5 text-[#fff] py-[10px] px-10 sm:px-[160px] sm:py-[40px]">
             <div className="text-3xl sm:row-span-4 sm:col-span-3 my-10">Vikasana</div>
             <div className="w-full sm:col-span-2 sm:row-span-4 flex justify-between">
@@ -31,6 +32,7 @@ export default function Footer() {
                     <Globe />
                 </div>
             </div>
+        </div>
         </div>
     )
 }
