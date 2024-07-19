@@ -21,7 +21,7 @@ export default function Header() {
 				</a>
 				<div className="hidden md:flex lg:text-xl justify-between w-[60%] lg:w-[52%] font-semibold cursor-pointer">
 					<a className="">Events</a>
-					<a className="">Members</a>
+					<a href="/members">Members</a>
 					<a className="">Divisions</a>
 					<a href="/about" className="">
 						About
