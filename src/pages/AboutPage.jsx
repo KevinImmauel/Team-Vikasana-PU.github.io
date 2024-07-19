@@ -5,7 +5,7 @@ import About from "../components/About";
 import TeamsComp from "../components/TeamsComp";
 import MisVis from "../components/MisVis";
 import FoundingMembers from "../components/FoundingMembers";
-import FoundingMembersCard from "../components/FoundingMembersCard";
+
 
 export default function AboutPage() {
     return (

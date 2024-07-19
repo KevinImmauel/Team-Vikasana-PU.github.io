@@ -23,7 +23,7 @@ export default function Header() {
                     <a href="/events" className="">
                         Events
                     </a>
-                    <a className="">Members</a>
+                    <a href="/members">Members</a>
                     <a className="">Divisions</a>
                     <a href="/about" className="">
                         About
